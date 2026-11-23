@@ -1,0 +1,488 @@
+2026-11-17 15:25:24,771 - TradingBot - INFO - Bot chay lien tuc (PAPER) moi 30 phut. Symbols=['AAPL', 'GOOGL', 'MSFT', 'TSLA', 'NVDA', 'SYP', 'QQQ']
+2026-11-17 15:25:26,137 - TradingBot - INFO - Thi truong dong cua - tam dung giao dich
+2026-11-17 15:25:26,682 - TradingBot - INFO - Report: {'total_equity': 100000.0, 'buying_power': 400000.0, 'positions': 0, 'day_gain': 0.0}
+2026-11-17 15:26:55,086 - TradingBot - INFO - Da dung bot.
+2026-11-17 16:00:28,512 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 | RSI=21.8 < 30 (oversold)
+2026-11-17 16:00:30,138 - TradingBot.orders - INFO - Crypto market buy BTC/USD -> order b2092a8d-3d3d-4274-905a-c2e46f113685
+2026-11-17 16:00:30,438 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 | RSI=25.2 < 30 (oversold)
+2026-11-17 16:00:31,187 - TradingBot.orders - INFO - Crypto market buy ETH/USD -> order 8f456418-0ec6-4e92-84d7-d3d98a577d46
+2026-11-17 16:00:31,687 - TradingBot - INFO - Report: {'total_equity': 99995.51, 'buying_power': 392154.96, 'positions': 2, 'day_gain': -4.490000000005239}
+2026-11-17 16:12:35,053 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 30 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-17 16:12:36,068 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 | RSI=21.7 < 30 (oversold)
+2026-11-17 16:12:36,975 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015219144)
+2026-11-17 16:12:37,235 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 | RSI=25.0 < 30 (oversold)
+2026-11-17 16:12:37,469 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.537943631)
+2026-11-17 16:12:37,939 - TradingBot - INFO - Report: {'total_equity': 99989.8, 'buying_power': 392154.96, 'positions': 2, 'day_gain': -10.19999999999709}
+2026-11-17 16:42:39,387 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 | RSI=22.0 < 30 (oversold)
+2026-11-17 16:42:40,473 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015219144)
+2026-11-17 16:42:40,729 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 | RSI=25.1 < 30 (oversold)
+2026-11-17 16:42:40,968 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.537943631)
+2026-11-17 16:42:41,446 - TradingBot - INFO - Report: {'total_equity': 99993.62, 'buying_power': 392154.96, 'positions': 2, 'day_gain': -6.380000000004657}
+2026-11-17 16:44:50,922 - TradingBot - INFO - Da dung bot.
+2026-11-18 09:39:44,724 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 5 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-18 09:39:46,729 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 09:39:47,437 - TradingBot.orders - INFO - Crypto market buy BTC/USD -> order cb83f586-43a2-4ece-bb1e-95fead1411ba
+2026-11-18 09:39:47,956 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 09:39:48,674 - TradingBot.orders - INFO - Crypto market buy ETH/USD -> order 9966836b-36fa-4ec5-9c6c-f41b972814fc
+2026-11-18 09:39:49,141 - TradingBot - INFO - Report: {'total_equity': 100002.16, 'buying_power': 388538.44, 'positions': 5, 'day_gain': 2.1600000000034925}
+2026-11-18 09:44:51,084 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.0 < 30 (oversold)
+2026-11-18 09:44:51,328 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 09:44:51,806 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 09:44:52,035 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 09:44:52,522 - TradingBot - INFO - Report: {'total_equity': 99998.22, 'buying_power': 388527.42, 'positions': 5, 'day_gain': -1.7799999999988358}
+2026-11-18 09:49:54,725 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.0 < 30 (oversold)
+2026-11-18 09:49:54,962 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 09:49:55,453 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 09:49:55,687 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 09:49:56,161 - TradingBot - INFO - Report: {'total_equity': 99989.44, 'buying_power': 388518.95, 'positions': 5, 'day_gain': -10.559999999997672}
+2026-11-18 09:54:58,534 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.0 < 30 (oversold)
+2026-11-18 09:54:58,769 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 09:54:59,303 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 09:54:59,538 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 09:55:00,011 - TradingBot - INFO - Report: {'total_equity': 99989.08, 'buying_power': 388519.68, 'positions': 5, 'day_gain': -10.919999999998254}
+2026-11-18 10:00:02,520 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.0 < 30 (oversold)
+2026-11-18 10:00:02,772 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:00:03,254 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 10:00:03,482 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:00:03,955 - TradingBot - INFO - Report: {'total_equity': 99997.66, 'buying_power': 388538.78, 'positions': 5, 'day_gain': -2.3399999999965075}
+2026-11-18 10:05:06,170 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:05:06,419 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:05:06,905 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:05:07,150 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:05:07,624 - TradingBot - INFO - Report: {'total_equity': 100002.07, 'buying_power': 388547.73, 'positions': 5, 'day_gain': 2.070000000006985}
+2026-11-18 10:10:12,342 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:10:12,674 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:10:13,202 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:10:13,431 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:10:13,985 - TradingBot - INFO - Report: {'total_equity': 100002.75, 'buying_power': 388543.43, 'positions': 5, 'day_gain': 2.75}
+2026-11-18 10:15:18,213 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:15:18,547 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:15:19,184 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:15:19,468 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:15:20,085 - TradingBot - INFO - Report: {'total_equity': 100006.49, 'buying_power': 388551.26, 'positions': 5, 'day_gain': 6.490000000005239}
+2026-11-18 10:20:24,254 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:20:24,533 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:20:25,160 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:20:25,404 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:20:25,873 - TradingBot - INFO - Report: {'total_equity': 100004.84, 'buying_power': 388546.95, 'positions': 5, 'day_gain': 4.8399999999965075}
+2026-11-18 10:25:30,061 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:25:30,395 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:25:31,014 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 10:25:31,309 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:25:31,922 - TradingBot - INFO - Report: {'total_equity': 99999.1, 'buying_power': 388537.37, 'positions': 5, 'day_gain': -0.8999999999941792}
+2026-11-18 10:30:36,444 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:30:36,781 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:30:37,407 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:30:37,652 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:30:38,210 - TradingBot - INFO - Report: {'total_equity': 100000.09, 'buying_power': 388537.29, 'positions': 5, 'day_gain': 0.08999999999650754}
+2026-11-18 10:41:15,946 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:41:16,194 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:41:16,708 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:41:16,953 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:41:17,426 - TradingBot - INFO - Report: {'total_equity': 100005.1, 'buying_power': 388545.39, 'positions': 5, 'day_gain': 5.100000000005821}
+2026-11-18 10:46:21,492 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:46:21,738 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:46:22,284 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:46:22,550 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:46:23,361 - TradingBot - INFO - Report: {'total_equity': 100003.97, 'buying_power': 388543.12, 'positions': 5, 'day_gain': 3.970000000001164}
+2026-11-18 10:51:27,238 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:51:27,499 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:51:28,136 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:51:28,425 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:51:28,885 - TradingBot - INFO - Report: {'total_equity': 100003.52, 'buying_power': 388541.86, 'positions': 5, 'day_gain': 3.5200000000040745}
+2026-11-18 10:56:33,037 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 10:56:33,368 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 10:56:34,008 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.7 < 30 (oversold)
+2026-11-18 10:56:34,297 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 10:56:34,847 - TradingBot - INFO - Report: {'total_equity': 100006.62, 'buying_power': 388547.35, 'positions': 5, 'day_gain': 6.619999999995343}
+2026-11-18 11:01:38,992 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.0 < 30 (oversold)
+2026-11-18 11:01:39,238 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 11:01:39,754 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 11:01:40,067 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 11:01:40,621 - TradingBot - INFO - Report: {'total_equity': 100000.27, 'buying_power': 388535.63, 'positions': 5, 'day_gain': 0.27000000000407454}
+2026-11-18 11:06:44,728 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=10.1 < 30 (oversold)
+2026-11-18 11:06:44,974 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015188682)
+2026-11-18 11:06:45,478 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=10.6 < 30 (oversold)
+2026-11-18 11:06:45,725 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.541761148)
+2026-11-18 11:06:46,274 - TradingBot - INFO - Report: {'total_equity': 100000.8, 'buying_power': 388541.57, 'positions': 5, 'day_gain': 0.8000000000029104}
+2026-11-19 10:33:43,143 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 5 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-19 10:33:45,467 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=11.9 < 30 (oversold)
+2026-11-19 10:33:46,216 - TradingBot.orders - INFO - Crypto market buy BTC/USD -> order 54b0ee92-5e03-40ee-b32e-3be387a620a1
+2026-11-19 10:33:46,717 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=13.8 < 30 (oversold)
+2026-11-19 10:33:47,406 - TradingBot.orders - INFO - Crypto market buy ETH/USD -> order d34b2c17-754e-4862-8bbb-9e0690832259
+2026-11-19 10:33:47,875 - TradingBot - INFO - Report: {'total_equity': 99917.47, 'buying_power': 389464.28, 'positions': 4, 'day_gain': -58.11013395623013}
+2026-11-19 10:34:04,111 - TradingBot - INFO - Da dung bot.
+2026-11-19 11:07:40,274 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 5 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-19 11:07:42,900 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=14.3 < 30 (oversold)
+2026-11-19 11:07:43,165 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:07:43,727 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=16.8 < 30 (oversold)
+2026-11-19 11:07:44,027 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:07:44,534 - TradingBot - INFO - Report: {'total_equity': 99930.73, 'buying_power': 389472.91, 'positions': 4, 'day_gain': -44.85013395623537}
+2026-11-19 11:12:48,778 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=13.6 < 30 (oversold)
+2026-11-19 11:12:49,034 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:12:49,567 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=16.3 < 30 (oversold)
+2026-11-19 11:12:49,831 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:12:50,306 - TradingBot - INFO - Report: {'total_equity': 99927.22, 'buying_power': 389471.53, 'positions': 4, 'day_gain': -48.36013395623013}
+2026-11-19 11:17:52,966 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=13.2 < 30 (oversold)
+2026-11-19 11:17:53,262 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:17:53,900 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=16.0 < 30 (oversold)
+2026-11-19 11:17:54,193 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:17:54,799 - TradingBot - INFO - Report: {'total_equity': 99934.85, 'buying_power': 389470.03, 'positions': 4, 'day_gain': -40.73013395622547}
+2026-11-19 11:22:58,650 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=13.7 < 30 (oversold)
+2026-11-19 11:22:58,963 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:23:00,116 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=16.3 < 30 (oversold)
+2026-11-19 11:23:00,437 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:23:01,103 - TradingBot - INFO - Report: {'total_equity': 99937.21, 'buying_power': 389470.91, 'positions': 4, 'day_gain': -38.37013395622489}
+2026-11-19 11:28:03,643 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.80 | RSI=13.4 < 30 (oversold)
+2026-11-19 11:28:03,885 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:28:04,458 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.80 | RSI=16.1 < 30 (oversold)
+2026-11-19 11:28:04,699 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:28:05,215 - TradingBot - INFO - Report: {'total_equity': 99937.6, 'buying_power': 389470.3, 'positions': 4, 'day_gain': -37.98013395622547}
+2026-11-19 11:31:43,171 - TradingBot - INFO - Da dung bot.
+2026-11-19 11:39:01,419 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 5 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-19 11:39:03,931 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:39:03.931565+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63502.11700000,62322.53000000,63405.57600000,0.25767378) RSI14_WilderRMA_Close=23.6373 SMA10_Close=67276.30875000 SMA30_Close=74823.03076667
+2026-11-19 11:39:03,958 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63405.57600000 signal_at=2026-11-19T11:39:03.958277+07:00 | RSI=23.6 < 30 (oversold)
+2026-11-19 11:39:04,274 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:39:04,917 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:39:04.917777+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1802.00500000,1762.09950000,1797.39150000,0.51794009) RSI14_WilderRMA_Close=26.9277 SMA10_Close=1886.57750000 SMA30_Close=2157.95350000
+2026-11-19 11:39:04,940 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1797.39150000 signal_at=2026-11-19T11:39:04.940692+07:00 | RSI=26.9 < 30 (oversold)
+2026-11-19 11:39:05,196 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:39:05,675 - TradingBot - INFO - Report: {'total_equity': 99935.99, 'buying_power': 389469.03, 'positions': 4, 'day_gain': -39.590133956226055}
+2026-11-19 11:44:07,654 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:44:07.654835+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63502.11700000,62322.53000000,63411.05700000,0.25767378) RSI14_WilderRMA_Close=23.6602 SMA10_Close=67276.85685000 SMA30_Close=74823.21346667
+2026-11-19 11:44:07,664 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63411.05700000 signal_at=2026-11-19T11:44:07.664273+07:00 | RSI=23.7 < 30 (oversold)
+2026-11-19 11:44:07,900 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:44:08,399 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:44:08.399176+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1802.00500000,1762.09950000,1797.75000000,0.51794009) RSI14_WilderRMA_Close=26.9670 SMA10_Close=1886.61335000 SMA30_Close=2157.96545000
+2026-11-19 11:44:08,405 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1797.75000000 signal_at=2026-11-19T11:44:08.405349+07:00 | RSI=27.0 < 30 (oversold)
+2026-11-19 11:44:08,640 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:44:09,107 - TradingBot - INFO - Report: {'total_equity': 99938.46, 'buying_power': 389468.84, 'positions': 4, 'day_gain': -37.12013395622489}
+2026-11-19 11:49:11,158 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:49:11.142332+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63684.81800000,62322.53000000,63592.80150000,0.25784178) RSI14_WilderRMA_Close=24.4125 SMA10_Close=67295.03130000 SMA30_Close=74829.27161667
+2026-11-19 11:49:11,167 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63592.80150000 signal_at=2026-11-19T11:49:11.167148+07:00 | RSI=24.4 < 30 (oversold)
+2026-11-19 11:49:11,404 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:49:11,889 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:49:11.889682+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1804.61500000,1762.09950000,1802.60000000,0.52483609) RSI14_WilderRMA_Close=27.4940 SMA10_Close=1887.09835000 SMA30_Close=2158.12711667
+2026-11-19 11:49:11,897 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1802.60000000 signal_at=2026-11-19T11:49:11.897824+07:00 | RSI=27.5 < 30 (oversold)
+2026-11-19 11:49:12,118 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:49:12,594 - TradingBot - INFO - Report: {'total_equity': 99943.62, 'buying_power': 389469.42, 'positions': 4, 'day_gain': -31.96013395623595}
+2026-11-19 11:54:14,512 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:54:14.512340+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63684.81800000,62322.53000000,63504.25000000,0.25820076) RSI14_WilderRMA_Close=24.0478 SMA10_Close=67286.17615000 SMA30_Close=74826.31990000
+2026-11-19 11:54:14,512 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63504.25000000 signal_at=2026-11-19T11:54:14.512340+07:00 | RSI=24.0 < 30 (oversold)
+2026-11-19 11:54:14,761 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:54:15,261 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:54:15.261428+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1804.61500000,1762.09950000,1797.82000000,0.52753309) RSI14_WilderRMA_Close=26.9746 SMA10_Close=1886.62035000 SMA30_Close=2157.96778333
+2026-11-19 11:54:15,261 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1797.82000000 signal_at=2026-11-19T11:54:15.261428+07:00 | RSI=27.0 < 30 (oversold)
+2026-11-19 11:54:15,508 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:54:15,975 - TradingBot - INFO - Report: {'total_equity': 99939.94, 'buying_power': 389468.27, 'positions': 4, 'day_gain': -35.640133956228965}
+2026-11-19 11:59:17,944 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:59:17.944603+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63684.81800000,62322.53000000,63497.70100000,0.25820076) RSI14_WilderRMA_Close=24.0207 SMA10_Close=67285.52125000 SMA30_Close=74826.10160000
+2026-11-19 11:59:17,967 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63497.70100000 signal_at=2026-11-19T11:59:17.967976+07:00 | RSI=24.0 < 30 (oversold)
+2026-11-19 11:59:18,206 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 11:59:18,677 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T11:59:18.677334+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1804.61500000,1762.09950000,1798.18000000,0.52753309) RSI14_WilderRMA_Close=27.0140 SMA10_Close=1886.65635000 SMA30_Close=2157.97978333
+2026-11-19 11:59:18,699 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1798.18000000 signal_at=2026-11-19T11:59:18.699245+07:00 | RSI=27.0 < 30 (oversold)
+2026-11-19 11:59:18,937 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 11:59:19,410 - TradingBot - INFO - Report: {'total_equity': 99940.13, 'buying_power': 389468.8, 'positions': 4, 'day_gain': -35.45013395622664}
+2026-11-19 12:02:23,595 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 1 phut. Symbols=['BTC/USD', 'ETH/USD']
+2026-11-19 12:02:26,829 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:02:26.829559+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:01:00+00:00 bars=7199 OHLCV=(63469.26250000,63478.21000000,63445.29000000,63454.01600000,0.00000000) RSI14_WilderRMA_Close=47.5926 SMA10_Close=63505.21460000 SMA30_Close=63472.76221667
+2026-11-19 12:02:28,983 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:02:28.983084+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:01:00+00:00 bars=7199 OHLCV=(1796.88950000,1797.38550000,1796.35000000,1796.40000000,0.00000000) RSI14_WilderRMA_Close=43.7171 SMA10_Close=1798.10085000 SMA30_Close=1798.26228333
+2026-11-19 12:02:30,079 - TradingBot - INFO - Report: {'total_equity': 99938.53, 'buying_power': 389468.04, 'positions': 4, 'day_gain': -37.05013395623246}
+2026-11-19 12:03:32,174 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:03:32.174835+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:02:00+00:00 bars=7199 OHLCV=(63456.69000000,63456.69000000,63442.32500000,63450.08800000,0.00008600) RSI14_WilderRMA_Close=47.0758 SMA10_Close=63499.79840000 SMA30_Close=63475.65040000
+2026-11-19 12:03:34,699 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:03:34.699398+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:02:00+00:00 bars=7199 OHLCV=(1796.44800000,1796.59800000,1795.74650000,1795.84050000,0.00000000) RSI14_WilderRMA_Close=41.8301 SMA10_Close=1797.90290000 SMA30_Close=1798.23230000
+2026-11-19 12:03:35,823 - TradingBot - INFO - Report: {'total_equity': 99937.99, 'buying_power': 389468.04, 'positions': 4, 'day_gain': -37.590133956226055}
+2026-11-19 12:04:21,468 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:04:21.468384+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63684.81800000,62322.53000000,63453.67600000,0.25828676) RSI14_WilderRMA_Close=23.8380 SMA10_Close=67281.11875000 SMA30_Close=74824.63410000
+2026-11-19 12:04:21,481 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63453.67600000 signal_at=2026-11-19T12:04:21.481126+07:00 | RSI=23.8 < 30 (oversold)
+2026-11-19 12:04:21,712 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 12:04:22,260 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:04:22.259989+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1804.61500000,1762.09950000,1796.53050000,0.54339409) RSI14_WilderRMA_Close=26.8332 SMA10_Close=1886.49140000 SMA30_Close=2157.92480000
+2026-11-19 12:04:22,275 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1796.53050000 signal_at=2026-11-19T12:04:22.275344+07:00 | RSI=26.8 < 30 (oversold)
+2026-11-19 12:04:22,504 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 12:04:22,978 - TradingBot - INFO - Report: {'total_equity': 99938.13, 'buying_power': 389468.42, 'positions': 4, 'day_gain': -37.45013395622664}
+2026-11-19 12:04:37,823 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:04:37.823024+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:03:00+00:00 bars=7199 OHLCV=(63446.26500000,63468.50000000,63446.26500000,63453.67600000,0.00000000) RSI14_WilderRMA_Close=47.6351 SMA10_Close=63492.01450000 SMA30_Close=63478.76488333
+2026-11-19 12:04:39,930 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:04:39.930693+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:03:00+00:00 bars=7199 OHLCV=(1796.25750000,1796.79300000,1795.98500000,1796.53050000,0.00000000) RSI14_WilderRMA_Close=44.9840 SMA10_Close=1797.71230000 SMA30_Close=1798.24576667
+2026-11-19 12:04:40,935 - TradingBot - INFO - Report: {'total_equity': 99938.13, 'buying_power': 389468.42, 'positions': 4, 'day_gain': -37.45013395622664}
+2026-11-19 12:05:42,878 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:05:42.878435+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:04:00+00:00 bars=7199 OHLCV=(63446.51450000,63446.51450000,63414.40500000,63414.40500000,0.00000000) RSI14_WilderRMA_Close=42.3582 SMA10_Close=63477.92205000 SMA30_Close=63480.71968333
+2026-11-19 12:05:42,878 - TradingBot - INFO - [MovingAverageCrossover] SELL BTC/USD conf=0.70 signal_price=63414.40500000 signal_at=2026-11-19T12:05:42.878435+07:00 | SMA crossover: 63477.92 < 63480.72
+2026-11-19 12:05:43,645 - TradingBot.orders - INFO - [DRY-RUN] sell 0.015546217 BTC (crypto market)
+2026-11-19 12:05:45,139 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:05:45.139586+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:04:00+00:00 bars=7199 OHLCV=(1795.95100000,1796.23000000,1795.54500000,1795.91500000,0.00000000) RSI14_WilderRMA_Close=42.7570 SMA10_Close=1797.36970000 SMA30_Close=1798.24526667
+2026-11-19 12:05:46,095 - TradingBot - INFO - Report: {'total_equity': 99938.28, 'buying_power': 389468.84, 'positions': 4, 'day_gain': -37.30013395623246}
+2026-11-19 12:06:48,168 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:06:48.168381+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:05:00+00:00 bars=7199 OHLCV=(63418.21050000,63488.66500000,63415.98700000,63465.78350000,0.00000000) RSI14_WilderRMA_Close=50.1403 SMA10_Close=63471.80245000 SMA30_Close=63485.30063333
+2026-11-19 12:06:50,422 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:06:50.422432+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:05:00+00:00 bars=7199 OHLCV=(1795.60000000,1799.48200000,1795.57300000,1798.28450000,0.00000000) RSI14_WilderRMA_Close=52.5051 SMA10_Close=1797.34265000 SMA30_Close=1798.34691667
+2026-11-19 12:06:51,447 - TradingBot - INFO - Report: {'total_equity': 99938.0, 'buying_power': 389468.08, 'positions': 4, 'day_gain': -37.58013395623129}
+2026-11-19 12:07:55,035 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:07:55.035527+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:06:00+00:00 bars=7199 OHLCV=(63455.46500000,63512.79250000,63455.46500000,63512.27000000,0.00000000) RSI14_WilderRMA_Close=55.9368 SMA10_Close=63472.52415000 SMA30_Close=63490.38756667
+2026-11-19 12:07:58,372 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:07:58.372318+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:06:00+00:00 bars=7199 OHLCV=(1798.11000000,1799.90000000,1797.91750000,1799.90000000,0.00000000) RSI14_WilderRMA_Close=57.7837 SMA10_Close=1797.54265000 SMA30_Close=1798.47305000
+2026-11-19 12:07:59,902 - TradingBot - INFO - Report: {'total_equity': 99939.43, 'buying_power': 389469.65, 'positions': 4, 'day_gain': -36.15013395623828}
+2026-11-19 12:09:06,227 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:09:06.227207+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:07:00+00:00 bars=7198 OHLCV=(63515.54100000,63526.54000000,63496.05000000,63525.66450000,0.00003937) RSI14_WilderRMA_Close=57.4711 SMA10_Close=63475.32050000 SMA30_Close=63494.39051667
+2026-11-19 12:09:11,379 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:09:11.379940+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:07:00+00:00 bars=7198 OHLCV=(1800.24000000,1800.24000000,1799.11500000,1799.84000000,0.00138955) RSI14_WilderRMA_Close=57.5280 SMA10_Close=1797.67820000 SMA30_Close=1798.55466667
+2026-11-19 12:09:12,678 - TradingBot - INFO - Report: {'total_equity': 99941.37, 'buying_power': 389469.46, 'positions': 4, 'day_gain': -34.21013395623595}
+2026-11-19 12:09:25,444 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:09:25.443541+07:00 symbol=BTC/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(62983.01300000,63684.81800000,62322.53000000,63488.70750000,0.25849213) RSI14_WilderRMA_Close=23.9835 SMA10_Close=67284.62190000 SMA30_Close=74825.80181667
+2026-11-19 12:09:25,467 - TradingBot - INFO - [RSI] BUY BTC/USD conf=0.65 signal_price=63488.70750000 signal_at=2026-11-19T12:09:25.467593+07:00 | RSI=24.0 < 30 (oversold)
+2026-11-19 12:09:25,788 - TradingBot - INFO - Bo qua BUY BTC/USD (vi the hien tai: 0.015546217)
+2026-11-19 12:09:26,427 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:09:26.427608+07:00 symbol=ETH/USD timeframe=1Day bar_at=2026-11-19T00:00:00+00:00 bars=101 OHLCV=(1774.55500000,1804.61500000,1762.09950000,1798.43150000,0.54478364) RSI14_WilderRMA_Close=27.0415 SMA10_Close=1886.68150000 SMA30_Close=2157.98816667
+2026-11-19 12:09:26,450 - TradingBot - INFO - [RSI] BUY ETH/USD conf=0.65 signal_price=1798.43150000 signal_at=2026-11-19T12:09:26.450623+07:00 | RSI=27.0 < 30 (oversold)
+2026-11-19 12:09:26,711 - TradingBot - INFO - Bo qua BUY ETH/USD (vi the hien tai: 0.55010391)
+2026-11-19 12:09:27,248 - TradingBot - INFO - Report: {'total_equity': 99941.42, 'buying_power': 389469.61, 'positions': 4, 'day_gain': -34.16013395623304}
+2026-11-19 12:10:17,015 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:10:17.015775+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:08:00+00:00 bars=7198 OHLCV=(63514.50850000,63521.74900000,63488.70750000,63488.70750000,0.00016600) RSI14_WilderRMA_Close=52.0827 SMA10_Close=63474.78605000 SMA30_Close=63496.75626667
+2026-11-19 12:10:21,049 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:10:21.049515+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:09:00+00:00 bars=7199 OHLCV=(1798.75000000,1799.43500000,1798.52500000,1798.97500000,0.00000000) RSI14_WilderRMA_Close=53.6763 SMA10_Close=1797.71285000 SMA30_Close=1798.59688333
+2026-11-19 12:10:22,409 - TradingBot - INFO - Report: {'total_equity': 99941.42, 'buying_power': 389469.61, 'positions': 4, 'day_gain': -34.16013395623304}
+2026-11-19 12:11:28,388 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:11:28.388811+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:10:00+00:00 bars=7199 OHLCV=(63508.08050000,63508.08050000,63463.81000000,63468.70500000,0.00000000) RSI14_WilderRMA_Close=49.0588 SMA10_Close=63474.84500000 SMA30_Close=63499.53691667
+2026-11-19 12:11:32,407 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:11:32.407518+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:10:00+00:00 bars=7199 OHLCV=(1798.97000000,1798.97000000,1797.83000000,1797.92750000,0.00000000) RSI14_WilderRMA_Close=49.5486 SMA10_Close=1797.80445000 SMA30_Close=1798.56611667
+2026-11-19 12:11:33,674 - TradingBot - INFO - Report: {'total_equity': 99940.74, 'buying_power': 389469.61, 'positions': 4, 'day_gain': -34.840133956226055}
+2026-11-19 12:22:49,451 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:22:49.451237+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:21:00+00:00 bars=7199 OHLCV=(63331.98000000,63366.50000000,63330.90000000,63352.82400000,0.00008800) RSI14_WilderRMA_Close=40.0876 SMA10_Close=63377.18665000 SMA30_Close=63453.10570000
+2026-11-19 12:22:51,400 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:22:51.400406+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:21:00+00:00 bars=7199 OHLCV=(1794.57500000,1795.51400000,1794.49000000,1795.15000000,0.00000000) RSI14_WilderRMA_Close=42.9971 SMA10_Close=1795.35035000 SMA30_Close=1797.13938333
+2026-11-19 12:22:52,417 - TradingBot - INFO - Report: {'total_equity': 99932.23, 'buying_power': 397342.42, 'positions': 2, 'day_gain': -43.35013395623537}
+2026-11-19 12:30:13,430 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:30:13.430423+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T05:28:00+00:00 bars=7198 OHLCV=(63393.44950000,63414.36500000,63379.12900000,63383.78350000,0.00000000) RSI14_WilderRMA_Close=45.6447 SMA10_Close=63388.20020000 SMA30_Close=63428.22396667
+2026-11-19 12:30:15,493 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T12:30:15.493957+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T05:28:00+00:00 bars=7198 OHLCV=(1797.65000000,1798.35500000,1797.39500000,1797.39500000,0.00000000) RSI14_WilderRMA_Close=52.0804 SMA10_Close=1796.59775000 SMA30_Close=1796.91190000
+2026-11-19 12:30:16,434 - TradingBot - INFO - Report: {'total_equity': 99932.5, 'buying_power': 397343.19, 'positions': 2, 'day_gain': -43.08013395623129}
+2026-11-19 14:40:40,076 - TradingBot - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-19 14:40:40,076 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-19 14:40:43,241 - TradingBot.screener - INFO - CHON NVDA: ADV=$1096237889, Vol=41.1%
+2026-11-19 14:40:43,251 - TradingBot.screener - INFO - CHON MSFT: ADV=$430252603, Vol=30.2%
+2026-11-19 14:40:43,251 - TradingBot.screener - INFO - CHON AAPL: ADV=$427765465, Vol=22.2%
+2026-11-19 14:40:43,251 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-19 14:40:43,253 - TradingBot - INFO - 
+  Symbol Data Status       ADV ($) Annual Volatility Screening Status
+0   AAPL       VALID  4.277655e+08            22.17%         SELECTED
+1   MSFT       VALID  4.302526e+08            30.25%         SELECTED
+2  GOOGL       VALID  3.436028e+08            39.80%     PRUNED_LIMIT
+3   NVDA       VALID  1.096238e+09            41.10%         SELECTED
+4   TSLA       VALID  3.032462e+08            46.46%     PRUNED_LIMIT
+5    JPM       VALID  8.622580e+07            24.12%     PRUNED_LIMIT
+6    BAC       VALID  1.388585e+08            23.81%     PRUNED_LIMIT
+7    XOM       VALID  7.949313e+07            27.44%     PRUNED_LIMIT
+8    CVX       VALID  6.173915e+07            26.00%     PRUNED_LIMIT
+9    JNJ       VALID  8.059482e+07            27.76%     PRUNED_LIMIT
+2026-11-19 14:40:43,260 - TradingBot - INFO - Mã được chọn sau sàng lọc: ['NVDA', 'MSFT', 'AAPL']
+2026-11-19 14:40:43,261 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['NVDA', 'MSFT', 'AAPL'] (is_crypto=False)
+2026-11-19 14:40:45,022 - TradingBot - INFO - Thi truong co phieu My dang dong cua (Market Closed)
+2026-11-19 14:40:46,905 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:40:46.905102+07:00 symbol=NVDA timeframe=1Min bar_at=2026-11-18T21:55:00+00:00 bars=1283 OHLCV=(150.10000000,150.10000000,150.10000000,150.10000000,100.00000000) RSI14_WilderRMA_Close=32.0696 SMA10_Close=150.79000000 SMA30_Close=150.94000000
+2026-11-19 14:40:47,986 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:40:47.986039+07:00 symbol=MSFT timeframe=1Min bar_at=2026-11-18T20:59:00+00:00 bars=1196 OHLCV=(508.00500000,508.62000000,508.00500000,508.50500000,37848.00000000) RSI14_WilderRMA_Close=63.2164 SMA10_Close=507.85650000 SMA30_Close=507.33100000
+2026-11-19 14:40:49,100 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:40:49.100616+07:00 symbol=AAPL timeframe=1Min bar_at=2026-11-18T21:21:00+00:00 bars=1239 OHLCV=(351.77000000,351.77000000,351.77000000,351.77000000,80.00000000) RSI14_WilderRMA_Close=39.8302 SMA10_Close=352.26300000 SMA30_Close=352.33816667
+2026-11-19 14:40:49,103 - TradingBot - INFO - [MovingAverageCrossover] SELL AAPL conf=0.70 signal_price=351.77000000 signal_at=2026-11-19T14:40:49.103032+07:00 | SMA crossover: 352.26 < 352.34
+2026-11-19 14:40:49,388 - TradingBot - INFO - Bo qua SELL AAPL (vi the hien tai: 0)
+2026-11-19 14:40:49,858 - TradingBot - INFO - Report: {'total_equity': 99939.88, 'buying_power': 397363.85, 'positions': 2, 'day_gain': -35.70013395622664}
+2026-11-19 14:50:54,975 - TradingBot - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-19 14:50:54,975 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-19 14:50:58,170 - TradingBot.screener - INFO - CHON NVDA: ADV=$1096237889, Vol=41.1%
+2026-11-19 14:50:58,170 - TradingBot.screener - INFO - CHON MSFT: ADV=$430252603, Vol=30.2%
+2026-11-19 14:50:58,173 - TradingBot.screener - INFO - CHON AAPL: ADV=$427765465, Vol=22.2%
+2026-11-19 14:50:58,174 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-19 14:50:58,175 - TradingBot - INFO - 
+=== BẢNG CHỈ SỐ TÀI CHÍNH & TRẠNG THÁI SÀNG LỌC ===
+  Symbol Data Status  ... Max Correlation Screening Status
+0   AAPL       VALID  ...    JPM (r=0.53)         SELECTED
+1   MSFT       VALID  ...    BAC (r=0.66)         SELECTED
+2  GOOGL       VALID  ...   MSFT (r=0.34)     PRUNED_LIMIT
+3   NVDA       VALID  ...   TSLA (r=0.56)         SELECTED
+4   TSLA       VALID  ...   NVDA (r=0.56)     PRUNED_LIMIT
+5    JPM       VALID  ...    BAC (r=0.71)     PRUNED_LIMIT
+6    BAC       VALID  ...    JPM (r=0.71)     PRUNED_LIMIT
+7    XOM       VALID  ...    CVX (r=0.94)     PRUNED_LIMIT
+8    CVX       VALID  ...    XOM (r=0.94)     PRUNED_LIMIT
+9    JNJ       VALID  ...    JPM (r=0.53)     PRUNED_LIMIT
+
+[10 rows x 6 columns]
+2026-11-19 14:50:58,180 - TradingBot - INFO - 
+=== MA TRẬN TƯƠNG QUAN PEARSON (CORRELATION MATRIX) ===
+         AAPL    MSFT   GOOGL    NVDA    TSLA     JPM     BAC     XOM     CVX     JNJ
+AAPL   1.0000  0.4260  0.1306 -0.0177  0.0965  0.5257  0.4902 -0.0894 -0.0622  0.4196
+MSFT   0.4260  1.0000  0.3393  0.2293  0.2278  0.4783  0.6622 -0.2368 -0.2432  0.1949
+GOOGL  0.1306  0.3393  1.0000  0.1635  0.2427  0.1073  0.2196 -0.1677 -0.2502 -0.0200
+NVDA  -0.0177  0.2293  0.1635  1.0000  0.5649  0.0672  0.0989  0.1808  0.1085 -0.1756
+TSLA   0.0965  0.2278  0.2427  0.5649  1.0000  0.2305  0.3033  0.0928  0.0009  0.0546
+JPM    0.5257  0.4783  0.1073  0.0672  0.2305  1.0000  0.7143 -0.0622  0.0281  0.5258
+BAC    0.4902  0.6622  0.2196  0.0989  0.3033  0.7143  1.0000 -0.2120 -0.1699  0.3923
+XOM   -0.0894 -0.2368 -0.1677  0.1808  0.0928 -0.0622 -0.2120  1.0000  0.9437 -0.0157
+CVX   -0.0622 -0.2432 -0.2502  0.1085  0.0009  0.0281 -0.1699  0.9437  1.0000 -0.0203
+JNJ    0.4196  0.1949 -0.0200 -0.1756  0.0546  0.5258  0.3923 -0.0157 -0.0203  1.0000
+2026-11-19 14:50:58,181 - TradingBot - INFO - 
+=== CẢNH BÁO TƯƠNG QUAN CAO (r > 0.75) ===
+2026-11-19 14:50:58,181 - TradingBot - WARNING - Cặp [XOM - CVX] có tương quan r = 0.94 > 0.75 (trùng lặp rủi ro ngành)
+2026-11-19 14:50:58,181 - TradingBot - INFO - 
+=== KẾT QUẢ SÀNG LỌC CUỐI CÙNG ===
+2026-11-19 14:50:58,181 - TradingBot - INFO - Mã được chọn sau sàng lọc (Top 3): ['NVDA', 'MSFT', 'AAPL']
+2026-11-19 14:50:58,182 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['NVDA', 'MSFT', 'AAPL'] (is_crypto=False)
+2026-11-19 14:50:59,103 - TradingBot - INFO - Thi truong co phieu My dang dong cua (Market Closed)
+2026-11-19 14:51:00,834 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:51:00.834386+07:00 symbol=NVDA timeframe=1Min bar_at=2026-11-18T21:55:00+00:00 bars=1283 OHLCV=(150.10000000,150.10000000,150.10000000,150.10000000,100.00000000) RSI14_WilderRMA_Close=32.0696 SMA10_Close=150.79000000 SMA30_Close=150.94000000
+2026-11-19 14:51:01,952 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:51:01.952033+07:00 symbol=MSFT timeframe=1Min bar_at=2026-11-18T20:59:00+00:00 bars=1196 OHLCV=(508.00500000,508.62000000,508.00500000,508.50500000,37848.00000000) RSI14_WilderRMA_Close=63.2164 SMA10_Close=507.85650000 SMA30_Close=507.33100000
+2026-11-19 14:51:03,236 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:51:03.236764+07:00 symbol=AAPL timeframe=1Min bar_at=2026-11-18T21:21:00+00:00 bars=1239 OHLCV=(351.77000000,351.77000000,351.77000000,351.77000000,80.00000000) RSI14_WilderRMA_Close=39.8302 SMA10_Close=352.26300000 SMA30_Close=352.33816667
+2026-11-19 14:51:03,238 - TradingBot - INFO - [MovingAverageCrossover] SELL AAPL conf=0.70 signal_price=351.77000000 signal_at=2026-11-19T14:51:03.238402+07:00 | SMA crossover: 352.26 < 352.34
+2026-11-19 14:51:03,600 - TradingBot - INFO - Bo qua SELL AAPL (vi the hien tai: 0)
+2026-11-19 14:51:04,077 - TradingBot - INFO - Report: {'total_equity': 99939.71, 'buying_power': 397363.39, 'positions': 2, 'day_gain': -35.87013395622489}
+2026-11-19 14:52:50,293 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['BTC/USD', 'ETH/USD'] (is_crypto=True)
+2026-11-19 14:52:53,564 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:52:53.564692+07:00 symbol=BTC/USD timeframe=1Min bar_at=2026-11-19T07:51:00+00:00 bars=7199 OHLCV=(63587.17500000,63642.12250000,63585.36500000,63642.12250000,0.00000000) RSI14_WilderRMA_Close=67.8117 SMA10_Close=63574.74030000 SMA30_Close=63545.01280000
+2026-11-19 14:52:55,506 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T14:52:55.506866+07:00 symbol=ETH/USD timeframe=1Min bar_at=2026-11-19T07:51:00+00:00 bars=7199 OHLCV=(1800.93500000,1801.72650000,1800.65000000,1801.72650000,0.00000000) RSI14_WilderRMA_Close=53.5889 SMA10_Close=1800.89970000 SMA30_Close=1801.19295000
+2026-11-19 14:52:56,467 - TradingBot - INFO - Report: {'total_equity': 99939.78, 'buying_power': 397363.58, 'positions': 2, 'day_gain': -35.80013395623246}
+2026-11-19 14:53:59,354 - TradingBot - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-19 14:53:59,354 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-19 14:54:02,506 - TradingBot.screener - INFO - CHON NVDA: ADV=$1096237889, Vol=41.1%
+2026-11-19 14:54:02,507 - TradingBot.screener - INFO - CHON MSFT: ADV=$430252603, Vol=30.2%
+2026-11-19 14:54:02,507 - TradingBot.screener - INFO - CHON AAPL: ADV=$427765465, Vol=22.2%
+2026-11-19 14:54:02,508 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-19 14:54:02,509 - TradingBot - INFO - 
+=== BẢNG CHỈ SỐ TÀI CHÍNH & TRẠNG THÁI SÀNG LỌC ===
+  Symbol Data Status  ... Max Correlation Screening Status
+0   AAPL       VALID  ...    JPM (r=0.53)         SELECTED
+1   MSFT       VALID  ...    BAC (r=0.66)         SELECTED
+2  GOOGL       VALID  ...   MSFT (r=0.34)     PRUNED_LIMIT
+3   NVDA       VALID  ...   TSLA (r=0.56)         SELECTED
+4   TSLA       VALID  ...   NVDA (r=0.56)     PRUNED_LIMIT
+5    JPM       VALID  ...    BAC (r=0.71)     PRUNED_LIMIT
+6    BAC       VALID  ...    JPM (r=0.71)     PRUNED_LIMIT
+7    XOM       VALID  ...    CVX (r=0.94)     PRUNED_LIMIT
+8    CVX       VALID  ...    XOM (r=0.94)     PRUNED_LIMIT
+9    JNJ       VALID  ...    JPM (r=0.53)     PRUNED_LIMIT
+
+[10 rows x 6 columns]
+2026-11-19 14:54:02,516 - TradingBot - INFO - 
+=== MA TRẬN TƯƠNG QUAN PEARSON (CORRELATION MATRIX) ===
+         AAPL    MSFT   GOOGL    NVDA    TSLA     JPM     BAC     XOM     CVX     JNJ
+AAPL   1.0000  0.4260  0.1306 -0.0177  0.0965  0.5257  0.4902 -0.0894 -0.0622  0.4196
+MSFT   0.4260  1.0000  0.3393  0.2293  0.2278  0.4783  0.6622 -0.2368 -0.2432  0.1949
+GOOGL  0.1306  0.3393  1.0000  0.1635  0.2427  0.1073  0.2196 -0.1677 -0.2502 -0.0200
+NVDA  -0.0177  0.2293  0.1635  1.0000  0.5649  0.0672  0.0989  0.1808  0.1085 -0.1756
+TSLA   0.0965  0.2278  0.2427  0.5649  1.0000  0.2305  0.3033  0.0928  0.0009  0.0546
+JPM    0.5257  0.4783  0.1073  0.0672  0.2305  1.0000  0.7143 -0.0622  0.0281  0.5258
+BAC    0.4902  0.6622  0.2196  0.0989  0.3033  0.7143  1.0000 -0.2120 -0.1699  0.3923
+XOM   -0.0894 -0.2368 -0.1677  0.1808  0.0928 -0.0622 -0.2120  1.0000  0.9437 -0.0157
+CVX   -0.0622 -0.2432 -0.2502  0.1085  0.0009  0.0281 -0.1699  0.9437  1.0000 -0.0203
+JNJ    0.4196  0.1949 -0.0200 -0.1756  0.0546  0.5258  0.3923 -0.0157 -0.0203  1.0000
+2026-11-19 14:54:02,517 - TradingBot - INFO - 
+=== CẢNH BÁO TƯƠNG QUAN CAO (r > 0.75) ===
+2026-11-19 14:54:02,517 - TradingBot - WARNING - Cặp [XOM - CVX] có tương quan r = 0.94 > 0.75 (trùng lặp rủi ro ngành)
+2026-11-19 14:54:02,517 - TradingBot - INFO - 
+=== KẾT QUẢ SÀNG LỌC CUỐI CÙNG ===
+2026-11-19 14:54:02,517 - TradingBot - INFO - Mã được chọn sau sàng lọc (Top 3): ['NVDA', 'MSFT', 'AAPL']
+2026-11-19 14:54:02,517 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['NVDA', 'MSFT', 'AAPL'] (is_crypto=False)
+2026-11-19 14:54:02,518 - TradingBot - INFO - Crypto bot chay lien tuc (PAPER) moi 5 phut. Symbols=['NVDA', 'MSFT', 'AAPL']
+2026-11-19 14:54:03,470 - TradingBot - INFO - Thi truong co phieu My dang dong cua (Market Closed)
+2026-11-19 14:54:03,933 - TradingBot - INFO - Report: {'total_equity': 99939.33, 'buying_power': 397362.32, 'positions': 2, 'day_gain': -36.25013395622955}
+2026-11-19 14:55:41,410 - TradingBot - INFO - Đã dừng bot.
+2026-11-19 15:04:04 - TradingBot.orders - INFO - TEST_ORDER_SUBMITTED symbol=AAPL
+2026-11-19 15:04:04 - TradingBot.screener - INFO - TEST_SCREENING_RESULT symbol=NVDA
+2026-11-19 15:04:04 - TradingBot - INFO - TEST_SYSTEM_EVENT status=OK
+2026-11-19 15:04:04 - TradingBot.screener - INFO - CHON AAPL: ADV=$1000000, Vol=25.0%
+2026-11-19 15:04:04 - TradingBot.screener - INFO - LOAI MSFT: Tuong quan cao voi AAPL (r = 0.90 > 0.75)
+2026-11-19 15:04:04 - TradingBot.screener - INFO - CHON JPM: ADV=$600000, Vol=20.0%
+2026-11-19 15:04:04 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'ILLIQUID', 'BAD_DATA']) ===
+2026-11-19 15:04:04 - TradingBot.screener - INFO - Loai ILLIQUID: ADV $956 < $200,000
+2026-11-19 15:04:04 - TradingBot.screener - WARNING - Ma BAD_DATA khong vuot qua kiem tra du lieu: [BAD_DATA] So nen (10) khong du nguong toi thieu (35)
+2026-11-19 15:04:04 - TradingBot.screener - INFO - CHON MSFT: ADV=$2294779, Vol=22.3%
+2026-11-19 15:04:04 - TradingBot.screener - INFO - LOAI AAPL: Tuong quan cao voi MSFT (r = 1.00 > 0.75)
+2026-11-19 15:04:04 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['MSFT'] ===
+2026-11-19 15:04:09 - TradingBot.screener - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-19 15:04:09 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-19 15:04:12 - TradingBot.screener - INFO - CHON NVDA: ADV=$1096237889, Vol=41.1%
+2026-11-19 15:04:12 - TradingBot.screener - INFO - CHON MSFT: ADV=$430252603, Vol=30.2%
+2026-11-19 15:04:13 - TradingBot.screener - INFO - CHON AAPL: ADV=$427765465, Vol=22.2%
+2026-11-19 15:04:13 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-19 15:04:13 - TradingBot.screener - INFO - 
+=== BẢNG CHỈ SỐ TÀI CHÍNH & TRẠNG THÁI SÀNG LỌC ===
+  Symbol Data Status  ... Max Correlation Screening Status
+0   AAPL       VALID  ...    JPM (r=0.53)         SELECTED
+1   MSFT       VALID  ...    BAC (r=0.66)         SELECTED
+2  GOOGL       VALID  ...   MSFT (r=0.34)     PRUNED_LIMIT
+3   NVDA       VALID  ...   TSLA (r=0.56)         SELECTED
+4   TSLA       VALID  ...   NVDA (r=0.56)     PRUNED_LIMIT
+5    JPM       VALID  ...    BAC (r=0.71)     PRUNED_LIMIT
+6    BAC       VALID  ...    JPM (r=0.71)     PRUNED_LIMIT
+7    XOM       VALID  ...    CVX (r=0.94)     PRUNED_LIMIT
+8    CVX       VALID  ...    XOM (r=0.94)     PRUNED_LIMIT
+9    JNJ       VALID  ...    JPM (r=0.53)     PRUNED_LIMIT
+
+[10 rows x 6 columns]
+2026-11-19 15:04:13 - TradingBot.screener - INFO - 
+=== MA TRẬN TƯƠNG QUAN PEARSON (CORRELATION MATRIX) ===
+         AAPL    MSFT   GOOGL    NVDA    TSLA     JPM     BAC     XOM     CVX     JNJ
+AAPL   1.0000  0.4260  0.1306 -0.0177  0.0965  0.5257  0.4902 -0.0894 -0.0622  0.4196
+MSFT   0.4260  1.0000  0.3393  0.2293  0.2278  0.4783  0.6622 -0.2368 -0.2432  0.1949
+GOOGL  0.1306  0.3393  1.0000  0.1635  0.2427  0.1073  0.2196 -0.1677 -0.2502 -0.0200
+NVDA  -0.0177  0.2293  0.1635  1.0000  0.5649  0.0672  0.0989  0.1808  0.1085 -0.1756
+TSLA   0.0965  0.2278  0.2427  0.5649  1.0000  0.2305  0.3033  0.0928  0.0009  0.0546
+JPM    0.5257  0.4783  0.1073  0.0672  0.2305  1.0000  0.7143 -0.0622  0.0281  0.5258
+BAC    0.4902  0.6622  0.2196  0.0989  0.3033  0.7143  1.0000 -0.2120 -0.1699  0.3923
+XOM   -0.0894 -0.2368 -0.1677  0.1808  0.0928 -0.0622 -0.2120  1.0000  0.9437 -0.0157
+CVX   -0.0622 -0.2432 -0.2502  0.1085  0.0009  0.0281 -0.1699  0.9437  1.0000 -0.0203
+JNJ    0.4196  0.1949 -0.0200 -0.1756  0.0546  0.5258  0.3923 -0.0157 -0.0203  1.0000
+2026-11-19 15:04:13 - TradingBot.screener - INFO - 
+=== CẢNH BÁO TƯƠNG QUAN CAO (r > 0.75) ===
+2026-11-19 15:04:13 - TradingBot.screener - WARNING - Cặp [XOM - CVX] có tương quan r = 0.94 > 0.75 (trùng lặp rủi ro ngành)
+2026-11-19 15:04:13 - TradingBot.screener - INFO - 
+=== KẾT QUẢ SÀNG LỌC CUỐI CÙNG ===
+2026-11-19 15:04:13 - TradingBot.screener - INFO - Mã được chọn sau sàng lọc (Top 3): ['NVDA', 'MSFT', 'AAPL']
+2026-11-19 15:04:13 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['NVDA', 'MSFT', 'AAPL'] (is_crypto=False)
+2026-11-19 15:04:14 - TradingBot - INFO - Thi truong co phieu My dang dong cua (Market Closed)
+2026-11-19 15:04:15 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T15:04:15.998400+07:00 symbol=NVDA timeframe=1Min bar_at=2026-11-18T21:55:00+00:00 bars=1283 OHLCV=(150.10000000,150.10000000,150.10000000,150.10000000,100.00000000) RSI14_WilderRMA_Close=32.0696 SMA10_Close=150.79000000 SMA30_Close=150.94000000
+2026-11-19 15:04:17 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T15:04:17.232344+07:00 symbol=MSFT timeframe=1Min bar_at=2026-11-18T20:59:00+00:00 bars=1196 OHLCV=(508.00500000,508.62000000,508.00500000,508.50500000,37848.00000000) RSI14_WilderRMA_Close=63.2164 SMA10_Close=507.85650000 SMA30_Close=507.33100000
+2026-11-19 15:04:18 - TradingBot - INFO - MARKET logged_at_local=2026-11-19T15:04:18.568105+07:00 symbol=AAPL timeframe=1Min bar_at=2026-11-18T21:21:00+00:00 bars=1239 OHLCV=(351.77000000,351.77000000,351.77000000,351.77000000,80.00000000) RSI14_WilderRMA_Close=39.8302 SMA10_Close=352.26300000 SMA30_Close=352.33816667
+2026-11-19 15:04:18 - TradingBot - INFO - [MovingAverageCrossover] SELL AAPL conf=0.70 signal_price=351.77000000 signal_at=2026-11-19T15:04:18.570110+07:00 | SMA crossover: 352.26 < 352.34
+2026-11-19 15:04:18 - TradingBot - INFO - Bo qua SELL AAPL (vi the hien tai: 0)
+2026-11-19 15:04:19 - TradingBot - INFO - Report: {'total_equity': 99940.19, 'buying_power': 397364.73, 'positions': 2, 'day_gain': -35.390133956228965}
+2026-11-19 15:04:52 - TradingBot.orders - INFO - [DRY-RUN] buy $1000.00 (market order)
+2026-11-19 15:06:44 - TradingBot.orders - INFO - TEST_ORDER_SUBMITTED symbol=AAPL
+2026-11-19 15:06:44 - TradingBot.screener - INFO - TEST_SCREENING_RESULT symbol=NVDA
+2026-11-19 15:06:44 - TradingBot - INFO - TEST_SYSTEM_EVENT status=OK
+2026-11-19 15:06:44 - TradingBot.screener - INFO - CHON AAPL: ADV=$1000000, Vol=25.0%
+2026-11-19 15:06:44 - TradingBot.screener - INFO - LOAI MSFT: Tuong quan cao voi AAPL (r = 0.90 > 0.75)
+2026-11-19 15:06:44 - TradingBot.screener - INFO - CHON JPM: ADV=$600000, Vol=20.0%
+2026-11-19 15:06:44 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'ILLIQUID', 'BAD_DATA']) ===
+2026-11-19 15:06:44 - TradingBot.screener - INFO - Loai ILLIQUID: ADV $956 < $200,000
+2026-11-19 15:06:44 - TradingBot.screener - WARNING - Ma BAD_DATA khong vuot qua kiem tra du lieu: [BAD_DATA] So nen (10) khong du nguong toi thieu (35)
+2026-11-19 15:06:44 - TradingBot.screener - INFO - CHON MSFT: ADV=$2294779, Vol=22.3%
+2026-11-19 15:06:44 - TradingBot.screener - INFO - LOAI AAPL: Tuong quan cao voi MSFT (r = 1.00 > 0.75)
+2026-11-19 15:06:44 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['MSFT'] ===
+2026-11-20 09:53:24,155 - TradingBot - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-20 09:53:24,156 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-20 09:53:27,408 - TradingBot.screener - INFO - CHON NVDA: ADV=$1098094898, Vol=41.0%
+2026-11-20 09:53:27,408 - TradingBot.screener - INFO - CHON MSFT: ADV=$436319781, Vol=30.3%
+2026-11-20 09:53:27,408 - TradingBot.screener - INFO - CHON AAPL: ADV=$434048403, Vol=22.0%
+2026-11-20 09:53:27,409 - TradingBot.screener - INFO - 
+=== DÒNG CHẢY 4 LỚP SÀNG LỌC (SCREENING FUNNEL BREAKDOWN) ===
+2026-11-20 09:53:27,409 - TradingBot.screener - INFO - • Lớp 1 (Data Quality): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:53:27,409 - TradingBot.screener - INFO - • Lớp 2 (Liquidity ADV >= $200000): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:53:27,409 - TradingBot.screener - INFO - • Lớp 3 (Volatility 15%-65%): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:53:27,410 - TradingBot.screener - INFO - • Lớp 4 (Correlation <= 0.75 & Top 3): 3 mã được chọn -> ['NVDA', 'MSFT', 'AAPL']
+2026-11-20 09:53:27,411 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-20 09:54:16,363 - TradingBot - INFO - --- KÍCH HOẠT QUY TRÌNH HISTORICAL DATA-BASED STOCK SCREENING ---
+2026-11-20 09:54:16,363 - TradingBot.screener - INFO - === BAT DAU SANG LOC CO PHIEU (Universe: ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']) ===
+2026-11-20 09:54:19,538 - TradingBot.screener - INFO - CHON NVDA: ADV=$1098094898, Vol=41.0%
+2026-11-20 09:54:19,538 - TradingBot.screener - INFO - CHON MSFT: ADV=$436319781, Vol=30.3%
+2026-11-20 09:54:19,539 - TradingBot.screener - INFO - CHON AAPL: ADV=$434048403, Vol=22.0%
+2026-11-20 09:54:19,540 - TradingBot.screener - INFO - 
+=== DÒNG CHẢY 4 LỚP SÀNG LỌC (SCREENING FUNNEL BREAKDOWN) ===
+2026-11-20 09:54:19,540 - TradingBot.screener - INFO - • Lớp 1 (Data Quality): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:54:19,540 - TradingBot.screener - INFO - • Lớp 2 (Liquidity ADV >= $200000): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:54:19,540 - TradingBot.screener - INFO - • Lớp 3 (Volatility 15%-65%): 10/10 mã qua -> ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA', 'JPM', 'BAC', 'XOM', 'CVX', 'JNJ']
+2026-11-20 09:54:19,540 - TradingBot.screener - INFO - • Lớp 4 (Correlation <= 0.75 & Top 3): 3 mã được chọn -> ['NVDA', 'MSFT', 'AAPL']
+2026-11-20 09:54:19,541 - TradingBot.screener - INFO - === KET THUC SANG LOC: Selected = ['NVDA', 'MSFT', 'AAPL'] ===
+2026-11-20 09:54:19,542 - TradingBot - INFO - 
+=== BẢNG THEO DÕI 4 LỚP SÀNG LỌC & CHỈ SỐ TÀI CHÍNH ===
+  Symbol Lớp 1 (Data)  ... Annual Volatility Screening Status
+0   AAPL         PASS  ...            22.04%         SELECTED
+1   MSFT         PASS  ...            30.29%         SELECTED
+2  GOOGL         PASS  ...            39.98%     PRUNED_LIMIT
+3   NVDA         PASS  ...            40.98%         SELECTED
+4   TSLA         PASS  ...            46.30%     PRUNED_LIMIT
+5    JPM         PASS  ...            23.94%     PRUNED_LIMIT
+6    BAC         PASS  ...            23.53%     PRUNED_LIMIT
+7    XOM         PASS  ...            27.24%     PRUNED_LIMIT
+8    CVX         PASS  ...            25.70%     PRUNED_LIMIT
+9    JNJ         PASS  ...            27.88%     PRUNED_LIMIT
+
+[10 rows x 8 columns]
+2026-11-20 09:54:19,549 - TradingBot - INFO - 
+=== MA TRẬN TƯƠNG QUAN PEARSON (CORRELATION MATRIX) ===
+         AAPL    MSFT   GOOGL    NVDA    TSLA     JPM     BAC     XOM     CVX     JNJ
+AAPL   1.0000  0.4358  0.1478 -0.0023  0.1095  0.5308  0.4906 -0.0779 -0.0650  0.4301
+MSFT   0.4358  1.0000  0.3587  0.2461  0.2438  0.4856  0.6584 -0.2173 -0.2445  0.2181
+GOOGL  0.1478  0.3587  1.0000  0.1838  0.2601  0.1228  0.2218 -0.1470 -0.2511  0.0130
+NVDA  -0.0023  0.2461  0.1838  1.0000  0.5725  0.0796  0.1025  0.1911  0.1035 -0.1470
+TSLA   0.1095  0.2438  0.2601  0.5725  1.0000  0.2402  0.3049  0.1039 -0.0029  0.0764
+JPM    0.5308  0.4856  0.1228  0.0796  0.2402  1.0000  0.7137 -0.0523  0.0251  0.5324
+BAC    0.4906  0.6584  0.2218  0.1025  0.3049  0.7137  1.0000 -0.2078 -0.1706  0.3917
+XOM   -0.0779 -0.2173 -0.1470  0.1911  0.1039 -0.0523 -0.2078  1.0000  0.9364  0.0015
+CVX   -0.0650 -0.2445 -0.2511  0.1035 -0.0029  0.0251 -0.1706  0.9364  1.0000 -0.0251
+JNJ    0.4301  0.2181  0.0130 -0.1470  0.0764  0.5324  0.3917  0.0015 -0.0251  1.0000
+2026-11-20 09:54:19,549 - TradingBot - INFO - 
+=== CẢNH BÁO TƯƠNG QUAN CAO (r > 0.75) ===
+2026-11-20 09:54:19,549 - TradingBot - WARNING - Cặp [XOM - CVX] có tương quan r = 0.94 > 0.75 (trùng lặp rủi ro ngành)
+2026-11-20 09:54:19,549 - TradingBot - INFO - 
+=== KẾT QUẢ SÀNG LỌC CUỐI CÙNG ===
+2026-11-20 09:54:19,549 - TradingBot - INFO - Mã được chọn sau sàng lọc (Top 3): ['NVDA', 'MSFT', 'AAPL']
+2026-11-20 09:54:19,549 - TradingBot - INFO - Khởi động TradingBot với danh sách symbols = ['NVDA', 'MSFT', 'AAPL'] (is_crypto=False)
+2026-11-20 09:54:20,501 - TradingBot - INFO - Thi truong co phieu My dang dong cua (Market Closed)
+2026-11-20 09:54:22,412 - TradingBot - INFO - MARKET logged_at_local=2026-11-20T09:54:22.412164+07:00 symbol=NVDA timeframe=1Min bar_at=2026-11-19T21:50:00+00:00 bars=1747 OHLCV=(145.29000000,145.29000000,145.29000000,145.29000000,100.00000000) RSI14_WilderRMA_Close=42.8092 SMA10_Close=145.10900000 SMA30_Close=146.12883333
+2026-11-20 09:54:23,459 - TradingBot - INFO - MARKET logged_at_local=2026-11-20T09:54:23.459547+07:00 symbol=MSFT timeframe=1Min bar_at=2026-11-19T20:59:00+00:00 bars=1587 OHLCV=(498.61000000,498.84000000,498.31000000,498.45000000,31508.00000000) RSI14_WilderRMA_Close=35.1170 SMA10_Close=499.38050000 SMA30_Close=499.84183333
+2026-11-20 09:54:24,436 - TradingBot - INFO - MARKET logged_at_local=2026-11-20T09:54:24.436064+07:00 symbol=AAPL timeframe=1Min bar_at=2026-11-19T21:42:00+00:00 bars=1637 OHLCV=(350.80000000,350.80000000,350.40000000,350.40000000,242.00000000) RSI14_WilderRMA_Close=67.6300 SMA10_Close=349.27100000 SMA30_Close=348.91400000
+2026-11-20 09:54:25,017 - TradingBot - INFO - Report: {'total_equity': 99940.91, 'buying_power': 399763.64, 'positions': 0, 'day_gain': 19.863416721040267}
